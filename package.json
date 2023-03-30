@@ -1,0 +1,18 @@
+{
+  "name": "cropit-png",
+  "version": "1.0.0",
+  "description": "A command-line tool for cropping images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cropit-png": "./index.js"
+  },
+  "author": "AYOUB MANSOURI",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "readline": "^1.3.0"
+  }
+}
