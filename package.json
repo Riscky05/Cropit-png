@@ -1,7 +1,24 @@
 {
   "name": "cropit-png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command-line tool for cropping images",
+  "keywords": [
+    "PNG",
+    "image",
+    "crop",
+    "graphics",
+    "picture",
+    "transparency",
+    "editing",
+    "photo",
+    "pixel",
+    "optimize",
+    "bitmap",
+    "resize",
+    "alpha",
+    "channel",
+    "layer"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
