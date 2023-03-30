@@ -8,7 +8,7 @@ Cropit-png is a command-line tool for cropping PNG images. With PNG Crop, you ca
 Install Cropit-png with npm, inside your project
 
 ```bash
-  npm install -g png-crop
+  npm i cropit-png
 ```
     
 ## Usage/Examples
@@ -16,7 +16,7 @@ Install Cropit-png with npm, inside your project
 Cropit-png can be used to crop a single image or a folder of images. To use it, open your command prompt or terminal and run the following command:
 
 ```
-    png-crop
+    cropit-png
 ```
 This will launch a prompt that asks if you want to crop a single image or a folder of images. Once you have made your selection, you will be prompted to enter the path to the image or folder you want to crop.
 
